@@ -43,6 +43,7 @@
      01. "target": "es2020", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
      02. "module": "NodeNext", /* Specify what module code is generated. */
      03. "moduleResolution": "NodeNext", /* Specify how TypeScript looks up a file from a given module specifier. */
+     4. "outDir": "./dist",  
 
  14. tsc
 
